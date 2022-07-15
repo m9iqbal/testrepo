@@ -1,2 +1,4 @@
 
 ABCDEF
+
+Changes in the new branch
